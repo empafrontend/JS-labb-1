@@ -1,47 +1,46 @@
 * {
-    box-sizing: border-box;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+  box-sizing: border-box;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 body {
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
-    height: 100vh;
-    background-color: rgb(121, 180, 248);
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(121, 180, 248);
 }
 
 .container {
-    width: 600px;
-    max-width: 80%;
-    background-color: white;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 8px 2px;
+  width: 550px;
+  height: 125px;
+  max-width: 80%;
+  background-color: white;
+  padding: 12px;
+  border-radius: 5px;
+  box-shadow: 0 0 4px 1px rgb(156, 156, 156);
 }
 
 .grid-button {
-    display: grid;
-    grid-template-columns: repeat(2, auto);
-    gap: 12px;
-    margin-top: 18px;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 12px;
+  margin-top: 18px;
 }
 
 .btn {
-    background-color: rgb(72, 139, 240);
-    border: 2.5px solid rgb(45, 45, 230);
-    border-radius: 6px;
-    padding: 5px 10px;
-    color: white;
-    outline: none;
-    
+  background-color: rgb(72, 139, 240);
+
+  border-radius: 6px;
+  padding: 5px 10px;
+  color: white;
+  outline: none;
 }
 
 .btn:hover {
-    border-color: black;
+  background-color: rgb(1, 77, 190);
 }
-
