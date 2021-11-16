@@ -5,7 +5,7 @@ function petHead() {
 }
 
 function petBelly() {
-    alert('You lost! the cat hates bellyrubs and scratches you! Game Over.')
+    alert('You lost! the cat hates bellyrubs and scratches you! Try again.')
 }
 
 
