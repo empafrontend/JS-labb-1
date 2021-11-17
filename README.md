@@ -10,4 +10,4 @@
 
 ## Links
 
-[Demo Sida](https://github.com/empafrontend/JS-labb-1)
+[Demo Sida](https://empafrontend.github.io/JS-labb-1/)
