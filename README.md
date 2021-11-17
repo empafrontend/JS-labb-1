@@ -1,4 +1,4 @@
-#                   Cat Scratch the Adventure
+# Cat Scratch the Adventure
 
 ## In this adventure you are going to encounter a cute cat, but be aware the cat might scratch you..
 
